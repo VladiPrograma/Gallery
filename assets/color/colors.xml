@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourcers>
+    <!--Material is used to frecuently colors -->
+    <color name="black" >#000000</color>
+    <color name="white" >#FFFFFF</color>
+    <color name="grey" >#E5E5E5</color>
+    <color name="yellow" >#14213D</color>
+    <color name="green" >#8DFC12</color>
+    <color name="pink">#FF6B6C</color>
+
+    <!--Material-Accent is used to infrequent colors -->
+    <color name="dark_blue" >#14213D</color>
+    <color name="blue_dark_grey" >#5B5F97</color>
+    <color name="lavender_grey" >#B8B8D1</color>
+    <color name="yellow_maximum_red">#FFC145</color>
+</resourcers>
