@@ -6,7 +6,7 @@
 
 **Design**
 ---
-The design idea comes from a prototype taken from Dribble. 
+The design idea comes from a prototype taken from Dribble. </br>
 https://dribbble.com/shots/5689566-Van-Gogh-museum-application/attachments/5689566?mode=media
 
 **How to Contribute**
