@@ -1,11 +1,4 @@
 <H3 align= "center" > Gallery </H3>
-<p align="center">
-<img width="100" src="https://img.shields.io/badge/plastic-legal-success">
-<img width="100" src="https://img.shields.io/github/downloads/VladiPrograma/Gallery/total?color=Success">
- <img width="100" src="https://img.shields.io/github/repo-size/VladiPrograma/Gallery"> 
- <img width="100" src="https://img.shields.io/github/followers/VladiPrograma">
-</p>
-
 
 `Gallery` shows most Aesthetic Flutter part.
 
